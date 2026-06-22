@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: d05cde5395040e044b6a6fa7159bbfdf
+  - enabled: 1
+    path: Assets/Jogo.unity
+    guid: 55ad2fd95d6289d4eba0ec3fa5d9ca22
+  - enabled: 1
+    path: Assets/Igreja.unity
+    guid: 2365d2f7c76a54843a65f14a1f4c053e
+  - enabled: 1
+    path: Assets/SaindoIgreja.unity
+    guid: 1bb73bddde4c89d4e97c045c1bec5213
+  - enabled: 1
+    path: Assets/Fase2/Fase2.unity
+    guid: 6d03e55ddb9fc354b94015d7429c2888
+  - enabled: 1
+    path: Assets/SaindoCastelo.unity
+    guid: 2bd0b6b69af802d4c875d042fe775fa9
+  - enabled: 1
+    path: Assets/Fase2/SaindoFase2.unity
+    guid: b58b5556a04a2a04f95b9d9053769557
+  - enabled: 1
+    path: Assets/Fase3/PrimeiroBoss.unity
+    guid: 7c5a8ec63f756d84ab7adae84fa73ddb
+  - enabled: 1
+    path: Assets/Fase3/Final.unity
+    guid: deda93eafbe9aea4796a300d90b33d6f
+  m_configObjects: {}
