@@ -1,0 +1,34 @@
+# Unity caches and generated files
+/Dark Shield/[Ll]ibrary/
+/Dark Shield/[Tt]emp/
+/Dark Shield/[Oo]bj/
+/Dark Shield/[Ll]ogs/
+/Dark Shield/[Uu]ser[Ss]ettings/
+/Dark Shield/[Mm]emoryCaptures/
+/Dark Shield/[Rr]ecordings/
+/Dark Shield/DarkShield/
+/Dark Shield/Assets/AssetStoreTools*
+/Dark Shield/*.zip
+/Dark Shield/.vsconfig
+
+# IDE and solution artifacts
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.vscode/
+
+# Local Unity WebGL export used only as source for the Pages build
+/Build/
+/TemplateData/
+/index.html
